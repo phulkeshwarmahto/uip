@@ -1,0 +1,150 @@
+{
+  "id": 1,
+  "name": "NIAMT Ranchi",
+  "fullName": "National Institute of Advanced Manufacturing Technology",
+  "location": "Ranchi, Jharkhand",
+  "established": 1985,
+  "type": "Autonomous Institution",
+  "accreditation": "NAAC A++",
+  "nirfRank": 56,
+  "totalStudents": 1200,
+  "totalTeachers": 65,
+  "activeGovtSchemes": 4,
+  "placementRate": 88,
+  "departments": [
+    {
+      "id": 1,
+      "name": "Computer Science",
+      "students": 350,
+      "faculty": 18,
+      "placementRate": 95,
+      "avgCGPA": 8.6
+    },
+    {
+      "id": 2,
+      "name": "Electronics and Communication",
+      "students": 280,
+      "faculty": 15,
+      "placementRate": 92,
+      "avgCGPA": 8.4
+    },
+    {
+      "id": 3,
+      "name": "Mechanical Engineering",
+      "students": 240,
+      "faculty": 12,
+      "placementRate": 85,
+      "avgCGPA": 8.1
+    },
+    {
+      "id": 4,
+      "name": "Civil Engineering",
+      "students": 180,
+      "faculty": 10,
+      "placementRate": 80,
+      "avgCGPA": 8.0
+    },
+    {
+      "id": 5,
+      "name": "Electrical Engineering",
+      "students": 150,
+      "faculty": 10,
+      "placementRate": 87,
+      "avgCGPA": 8.2
+    }
+  ],
+  "schemes": [
+    {
+      "id": 1,
+      "name": "PMRF",
+      "fullName": "Prime Minister's Research Fellowship",
+      "students": 25,
+      "budget": "₹2.5 Cr",
+      "startDate": "2020-04-01",
+      "endDate": "2025-03-31"
+    },
+    {
+      "id": 2,
+      "name": "SPARC",
+      "fullName": "Scheme for Promotion of Academic and Research Collaboration",
+      "students": 15,
+      "budget": "₹1.8 Cr",
+      "startDate": "2021-05-01",
+      "endDate": "2024-12-31"
+    },
+    {
+      "id": 3,
+      "name": "GIAN",
+      "fullName": "Global Initiative of Academic Networks",
+      "students": 40,
+      "budget": "₹1.2 Cr",
+      "startDate": "2022-01-15",
+      "endDate": "2025-01-14"
+    },
+    {
+      "id": 4,
+      "name": "IMPRINT",
+      "fullName": "Impacting Research Innovation and Technology",
+      "students": 30,
+      "budget": "₹3.5 Cr",
+      "startDate": "2021-07-01",
+      "endDate": "2026-06-30"
+    }
+  ],
+  "enrollmentTrend": [
+    { "year": 2020, "students": 980 },
+    { "year": 2021, "students": 1050 },
+    { "year": 2022, "students": 1100 },
+    { "year": 2023, "students": 1150 },
+    { "year": 2024, "students": 1200 }
+  ],
+  "completionRateByDept": [
+    { "department": "Computer Science", "rate": 94 },
+    { "department": "Electronics and Communication", "rate": 91 },
+    { "department": "Mechanical Engineering", "rate": 89 },
+    { "department": "Civil Engineering", "rate": 87 },
+    { "department": "Electrical Engineering", "rate": 90 }
+  ],
+  "schemeUsageHeatmap": [
+    {
+      "scheme": "PMRF",
+      "usage": [
+        { "department": "Computer Science", "intensity": 0.8 },
+        { "department": "Electronics and Communication", "intensity": 0.6 },
+        { "department": "Mechanical Engineering", "intensity": 0.4 },
+        { "department": "Civil Engineering", "intensity": 0.3 },
+        { "department": "Electrical Engineering", "intensity": 0.5 }
+      ]
+    },
+    {
+      "scheme": "SPARC",
+      "usage": [
+        { "department": "Computer Science", "intensity": 0.7 },
+        { "department": "Electronics and Communication", "intensity": 0.5 },
+        { "department": "Mechanical Engineering", "intensity": 0.3 },
+        { "department": "Civil Engineering", "intensity": 0.2 },
+        { "department": "Electrical Engineering", "intensity": 0.4 }
+      ]
+    },
+    {
+      "scheme": "GIAN",
+      "usage": [
+        { "department": "Computer Science", "intensity": 0.6 },
+        { "department": "Electronics and Communication", "intensity": 0.7 },
+        { "department": "Mechanical Engineering", "intensity": 0.5 },
+        { "department": "Civil Engineering", "intensity": 0.4 },
+        { "department": "Electrical Engineering", "intensity": 0.6 }
+      ]
+    },
+    {
+      "scheme": "IMPRINT",
+      "usage": [
+        { "department": "Computer Science", "intensity": 0.5 },
+        { "department": "Electronics and Communication", "intensity": 0.6 },
+        { "department": "Mechanical Engineering", "intensity": 0.7 },
+        { "department": "Civil Engineering", "intensity": 0.6 },
+        { "department": "Electrical Engineering", "intensity": 0.5 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+[
+  {"id": 1, "read": false, "title": "Logbook entry verified", "description": "Your entry for 15/10/2024 has been verified by Dr. Kumar.", "timestamp": "2024-10-16T10:00:00Z"},
+  {"id": 2, "read": true, "title": "New Internship Alert", "description": "Google is hiring Summer Interns. Apply now!", "timestamp": "2024-10-15T14:30:00Z"},
+  {"id": 3, "read": false, "title": "NIRF Submission Reminder", "description": "Deadline for NIRF data submission is approaching.", "timestamp": "2024-10-14T09:15:00Z"},
+  {"id": 4, "read": true, "title": "New Government Scheme", "description": "Ministry of Education launches new scholarship program.", "timestamp": "2024-10-10T11:20:00Z"},
+  {"id": 5, "read": false, "title": "Publication Approved", "description": "Your research paper has been approved for the conference.", "timestamp": "2024-10-08T16:45:00Z"}
+]

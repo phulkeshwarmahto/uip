@@ -1,0 +1,821 @@
+[
+  {
+    "id": 1,
+    "name": "Aditi Sharma",
+    "college": "NIAMT Ranchi",
+    "aadharMasked": "XXXX-XXXX-1234",
+    "department": "Computer Science",
+    "year": 3,
+    "cgpa": 8.7,
+    "attendance": 92,
+    "activeInternships": 1,
+    "badgesEarned": [
+      { "id": 1, "name": "Top Performer", "description": "Achieved highest CGPA in the class" },
+      { "id": 2, "name": "Coding Ninja", "description": "Won the college hackathon" },
+      { "id": 3, "name": "Research Star", "description": "Published a research paper" }
+    ],
+    "skills": [
+      { "name": "Python", "level": 85 },
+      { "name": "Java", "level": 70 },
+      { "name": "Machine Learning", "level": 75 },
+      { "name": "Web Development", "level": 80 },
+      { "name": "Data Analysis", "level": 90 }
+    ],
+    "progress": [
+      { "semester": "Sem 1", "cgpa": 8.2 },
+      { "semester": "Sem 2", "cgpa": 8.4 },
+      { "semester": "Sem 3", "cgpa": 8.3 },
+      { "semester": "Sem 4", "cgpa": 8.6 },
+      { "semester": "Sem 5", "cgpa": 8.7 }
+    ],
+    "timeline": [
+      { "id": 1, "title": "Joined NIAMT Ranchi", "date": "2022-08-01", "status": "completed" },
+      { "id": 2, "title": "First Year Completed", "date": "2023-05-15", "status": "completed" },
+      { "id": 3, "title": "Internship at XYZ Corp", "date": "2023-06-10", "status": "completed" },
+      { "id": 4, "title": "Second Year Completed", "date": "2024-05-20", "status": "completed" },
+      { "id": 5, "title": "Research Paper Published", "date": "2024-07-15", "status": "completed" },
+      { "id": 6, "title": "Current Semester", "date": "2024-08-01", "status": "current" },
+      { "id": 7, "title": "Final Year Project", "date": "2025-01-10", "status": "future" },
+      { "id": 8, "title": "Graduation", "date": "2025-05-30", "status": "future" }
+    ],
+    "performance": {
+      "academic": {
+        "overall": 8.7,
+        "classRank": 3,
+        "subjectWise": [
+          { "subject": "Data Structures", "grade": "A+" },
+          { "subject": "Database Management", "grade": "A" },
+          { "subject": "Machine Learning", "grade": "A-" },
+          { "subject": "Computer Networks", "grade": "B+" }
+        ]
+      },
+      "sports": {
+        "participation": [
+          { "event": "Inter-College Basketball", "position": "2nd", "year": 2023 },
+          { "event": "Annual Sports Meet", "position": "Participant", "year": 2024 }
+        ]
+      }
+    },
+    "lifecycleTracking": {
+      "currentPhase": "Undergraduate",
+      "admissionDate": "2022-08-01",
+      "expectedGraduation": "2026-05-30",
+      "alumniStatus": "Not Applicable"
+    },
+    "governmentSchemes": [
+      {
+        "name": "National Scholarship Portal",
+        "amount": "₹12,000 per year",
+        "status": "Approved",
+        "year": "2023-24"
+      },
+      {
+        "name": "PM Scholarship Scheme",
+        "amount": "₹25,000 per year",
+        "status": "Applied",
+        "year": "2024-25"
+      }
+    ],
+    "mentorship": {
+      "mentorId": 1,
+      "mentorName": "Dr. Ravi Kumar",
+      "lastMeeting": "2024-09-15",
+      "nextMeeting": "2024-10-20",
+      "notes": "Working on research paper in AI ethics"
+    },
+    "opportunities": [
+      {
+        "type": "Internship",
+        "company": "TechSolutions India",
+        "role": "Machine Learning Intern",
+        "status": "Active",
+        "duration": "3 months"
+      },
+      {
+        "type": "Project",
+        "title": "Smart Campus IoT Initiative",
+        "status": "Upcoming",
+        "startDate": "2024-11-01"
+      }
+    ],
+    "certificates": [
+      {
+        "title": "Python for Data Science",
+        "issuedBy": "Coursera",
+        "issuedDate": "2023-05-10",
+        "verificationId": "PDSCI-78945"
+      },
+      {
+        "title": "Hackathon Winner Certificate",
+        "issuedBy": "NIAMT Ranchi",
+        "issuedDate": "2024-02-15",
+        "verificationId": "HACK-2024-001"
+      }
+    ],
+    "feedback": [
+      {
+        "subject": "Campus Facilities",
+        "rating": 4.5,
+        "comment": "Good infrastructure, but need more lab equipment",
+        "date": "2024-03-10"
+      },
+      {
+        "subject": "Teaching Quality",
+        "rating": 4.8,
+        "comment": "Excellent professors with industry experience",
+        "date": "2024-03-10"
+      }
+    ],
+    "digitalCredentials": {
+      "digilockerLinked": true,
+      "aadharLinked": true,
+      "abcId": "ABC12345678",
+      "apaarId": "APAR987654"
+    },
+    "analytics": {
+      "performancePrediction": "High potential for research career",
+      "alertsGenerated": [
+        { "type": "Opportunity", "message": "Eligible for Microsoft Research Internship", "date": "2024-09-01" },
+        { "type": "Academic", "message": "Consider enrolling in Advanced AI course next semester", "date": "2024-09-15" }
+      ]
+    },
+    "alumniNetwork": {
+      "connected": false,
+      "status": "Current Student"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Rahul Verma",
+    "college": "NIAMT Ranchi",
+    "aadharMasked": "XXXX-XXXX-5678",
+    "department": "Electronics and Communication",
+    "year": 3,
+    "cgpa": 9.1,
+    "attendance": 95,
+    "activeInternships": 0,
+    "badgesEarned": [
+      { "id": 1, "name": "Academic Excellence", "description": "Consistent CGPA above 9.0" },
+      { "id": 2, "name": "Innovation Award", "description": "Best innovative project in the department" }
+    ],
+    "skills": [
+      { "name": "Circuit Design", "level": 90 },
+      { "name": "VLSI", "level": 85 },
+      { "name": "Embedded Systems", "level": 80 },
+      { "name": "IoT", "level": 75 },
+      { "name": "Python", "level": 65 }
+    ],
+    "progress": [
+      { "semester": "Sem 1", "cgpa": 8.8 },
+      { "semester": "Sem 2", "cgpa": 9.0 },
+      { "semester": "Sem 3", "cgpa": 9.2 },
+      { "semester": "Sem 4", "cgpa": 9.0 },
+      { "semester": "Sem 5", "cgpa": 9.1 }
+    ],
+    "timeline": [
+      { "id": 1, "title": "Joined NIAMT Ranchi", "date": "2022-08-01", "status": "completed" },
+      { "id": 2, "title": "First Year Completed", "date": "2023-05-15", "status": "completed" },
+      { "id": 3, "title": "Summer Research Project", "date": "2023-06-10", "status": "completed" },
+      { "id": 4, "title": "Second Year Completed", "date": "2024-05-20", "status": "completed" },
+      { "id": 5, "title": "Innovation Award", "date": "2024-07-15", "status": "completed" },
+      { "id": 6, "title": "Current Semester", "date": "2024-08-01", "status": "current" }
+    ],
+    "performance": {
+      "academic": {
+        "overall": 9.1,
+        "classRank": 1,
+        "subjectWise": [
+          { "subject": "Digital Electronics", "grade": "A+" },
+          { "subject": "Signal Processing", "grade": "A+" },
+          { "subject": "Communication Systems", "grade": "A" },
+          { "subject": "Microprocessors", "grade": "A" }
+        ]
+      },
+      "sports": {
+        "participation": [
+          { "event": "Inter-College Chess Tournament", "position": "1st", "year": 2023 },
+          { "event": "State Level Table Tennis", "position": "Quarter-finalist", "year": 2024 }
+        ]
+      }
+    },
+    "lifecycleTracking": {
+      "currentPhase": "Undergraduate",
+      "admissionDate": "2022-08-01",
+      "expectedGraduation": "2026-05-30",
+      "alumniStatus": "Not Applicable"
+    },
+    "governmentSchemes": [
+      {
+        "name": "INSPIRE Scholarship",
+        "amount": "₹80,000 per year",
+        "status": "Approved",
+        "year": "2023-24"
+      }
+    ],
+    "mentorship": {
+      "mentorId": 2,
+      "mentorName": "Dr. Priya Sharma",
+      "lastMeeting": "2024-09-28",
+      "nextMeeting": "2024-10-28",
+      "notes": "Preparing for international research competition"
+    },
+    "opportunities": [
+      {
+        "type": "Project",
+        "title": "IoT-based Smart Agriculture System",
+        "status": "Ongoing",
+        "startDate": "2024-08-15"
+      },
+      {
+        "type": "NEP Initiative",
+        "title": "Interdisciplinary Research Program",
+        "status": "Selected",
+        "startDate": "2024-11-01"
+      }
+    ],
+    "certificates": [
+      {
+        "title": "Embedded Systems Design",
+        "issuedBy": "Texas Instruments",
+        "issuedDate": "2023-12-10",
+        "verificationId": "TI-ESD-45678"
+      },
+      {
+        "title": "IoT Specialization",
+        "issuedBy": "Cisco Networking Academy",
+        "issuedDate": "2024-04-15",
+        "verificationId": "CISCO-IOT-3456"
+      }
+    ],
+    "feedback": [
+      {
+        "subject": "Lab Equipment",
+        "rating": 3.8,
+        "comment": "Need more advanced equipment for VLSI design",
+        "date": "2024-02-20"
+      },
+      {
+        "subject": "Course Structure",
+        "rating": 4.5,
+        "comment": "Well-designed curriculum with good industry alignment",
+        "date": "2024-02-20"
+      }
+    ],
+    "digitalCredentials": {
+      "digilockerLinked": true,
+      "aadharLinked": true,
+      "abcId": "ABC23456789",
+      "apaarId": "APAR876543"
+    },
+    "analytics": {
+      "performancePrediction": "Excellent research potential in embedded systems",
+      "alertsGenerated": [
+        { "type": "Opportunity", "message": "Eligible for Intel Research Fellowship", "date": "2024-09-05" },
+        { "type": "Academic", "message": "Consider publishing your project in IEEE journal", "date": "2024-09-20" }
+      ]
+    },
+    "alumniNetwork": {
+      "connected": false,
+      "status": "Current Student"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Priya Patel",
+    "college": "NIAMT Ranchi",
+    "aadharMasked": "XXXX-XXXX-9012",
+    "department": "Computer Science",
+    "year": 4,
+    "cgpa": 8.9,
+    "attendance": 88,
+    "activeInternships": 1,
+    "badgesEarned": [
+      { "id": 1, "name": "Research Excellence", "description": "Outstanding research contribution" },
+      { "id": 2, "name": "Hackathon Winner", "description": "Won national level hackathon" },
+      { "id": 3, "name": "Community Leader", "description": "Leading student tech community" }
+    ],
+    "skills": [
+      { "name": "AI/ML", "level": 90 },
+      { "name": "Data Science", "level": 85 },
+      { "name": "Python", "level": 95 },
+      { "name": "Cloud Computing", "level": 80 },
+      { "name": "Research", "level": 85 }
+    ],
+    "progress": [
+      { "semester": "Sem 1", "cgpa": 8.5 },
+      { "semester": "Sem 2", "cgpa": 8.7 },
+      { "semester": "Sem 3", "cgpa": 8.8 },
+      { "semester": "Sem 4", "cgpa": 9.0 },
+      { "semester": "Sem 5", "cgpa": 8.9 },
+      { "semester": "Sem 6", "cgpa": 9.1 },
+      { "semester": "Sem 7", "cgpa": 8.9 }
+    ],
+    "timeline": [
+      { "id": 1, "title": "Joined NIAMT Ranchi", "date": "2021-08-01", "status": "completed" },
+      { "id": 2, "title": "First Year Completed", "date": "2022-05-15", "status": "completed" },
+      { "id": 3, "title": "Internship at Tech Mahindra", "date": "2022-06-10", "status": "completed" },
+      { "id": 4, "title": "Second Year Completed", "date": "2023-05-20", "status": "completed" },
+      { "id": 5, "title": "Research Paper Published", "date": "2023-07-15", "status": "completed" },
+      { "id": 6, "title": "Third Year Completed", "date": "2024-05-15", "status": "completed" },
+      { "id": 7, "title": "Current Semester", "date": "2024-08-01", "status": "current" },
+      { "id": 8, "title": "Graduation", "date": "2025-05-30", "status": "future" }
+    ],
+    "performance": {
+      "academic": {
+        "overall": 8.9,
+        "classRank": 2,
+        "subjectWise": [
+          { "subject": "Artificial Intelligence", "grade": "A+" },
+          { "subject": "Cloud Computing", "grade": "A" },
+          { "subject": "Big Data Analytics", "grade": "A+" },
+          { "subject": "Computer Vision", "grade": "A-" }
+        ]
+      },
+      "sports": {
+        "participation": [
+          { "event": "University Badminton Championship", "position": "Semi-finalist", "year": 2023 }
+        ]
+      }
+    },
+    "lifecycleTracking": {
+      "currentPhase": "Final Year",
+      "admissionDate": "2021-08-01",
+      "expectedGraduation": "2025-05-30",
+      "alumniStatus": "Not Applicable"
+    },
+    "governmentSchemes": [
+      {
+        "name": "Women in STEM Scholarship",
+        "amount": "₹50,000 per year",
+        "status": "Approved",
+        "year": "2023-24"
+      },
+      {
+        "name": "Research Grant - Ministry of Education",
+        "amount": "₹75,000",
+        "status": "Approved",
+        "year": "2024-25"
+      }
+    ],
+    "mentorship": {
+      "mentorId": 1,
+      "mentorName": "Dr. Ravi Kumar",
+      "lastMeeting": "2024-09-22",
+      "nextMeeting": "2024-10-15",
+      "notes": "Discussing ML thesis and job placement strategies"
+    },
+    "opportunities": [
+      {
+        "type": "Internship",
+        "company": "Google India",
+        "role": "ML Research Intern",
+        "status": "Active",
+        "duration": "6 months"
+      },
+      {
+        "type": "Project",
+        "title": "Healthcare AI for Rural India",
+        "status": "Ongoing",
+        "startDate": "2024-07-01"
+      }
+    ],
+    "certificates": [
+      {
+        "title": "TensorFlow Developer Certificate",
+        "issuedBy": "Google",
+        "issuedDate": "2023-06-10",
+        "verificationId": "TF-DEV-12345"
+      },
+      {
+        "title": "AWS Machine Learning Specialty",
+        "issuedBy": "Amazon Web Services",
+        "issuedDate": "2024-01-15",
+        "verificationId": "AWS-ML-7890"
+      },
+      {
+        "title": "National Hackathon Winner",
+        "issuedBy": "Ministry of Electronics & IT",
+        "issuedDate": "2023-11-20",
+        "verificationId": "HACK-NAT-2023"
+      }
+    ],
+    "feedback": [
+      {
+        "subject": "Research Opportunities",
+        "rating": 4.2,
+        "comment": "Good opportunities but need more funding",
+        "date": "2024-04-10"
+      },
+      {
+        "subject": "Industry Connect",
+        "rating": 4.7,
+        "comment": "Excellent industry connections and placement support",
+        "date": "2024-04-10"
+      }
+    ],
+    "digitalCredentials": {
+      "digilockerLinked": true,
+      "aadharLinked": true,
+      "abcId": "ABC34567890",
+      "apaarId": "APAR765432"
+    },
+    "analytics": {
+      "performancePrediction": "High potential for AI research and industry leadership",
+      "alertsGenerated": [
+        { "type": "Placement", "message": "Top AI companies recruiting next month", "date": "2024-09-10" },
+        { "type": "Research", "message": "Eligible for international research exchange program", "date": "2024-09-12" }
+      ]
+    },
+    "alumniNetwork": {
+      "connected": false,
+      "status": "Current Student"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Arjun Singh",
+    "college": "NIAMT Ranchi",
+    "aadharMasked": "XXXX-XXXX-3456",
+    "department": "Mechanical Engineering",
+    "year": 2,
+    "cgpa": 7.8,
+    "attendance": 85,
+    "activeInternships": 0,
+    "badgesEarned": [
+      { "id": 1, "name": "Design Champion", "description": "Best CAD design in the department" }
+    ],
+    "skills": [
+      { "name": "AutoCAD", "level": 85 },
+      { "name": "SolidWorks", "level": 80 },
+      { "name": "Thermodynamics", "level": 75 },
+      { "name": "Manufacturing", "level": 70 },
+      { "name": "Project Management", "level": 65 }
+    ],
+    "progress": [
+      { "semester": "Sem 1", "cgpa": 7.5 },
+      { "semester": "Sem 2", "cgpa": 7.8 },
+      { "semester": "Sem 3", "cgpa": 7.8 }
+    ],
+    "timeline": [
+      { "id": 1, "title": "Joined NIAMT Ranchi", "date": "2023-08-01", "status": "completed" },
+      { "id": 2, "title": "First Year Completed", "date": "2024-05-15", "status": "completed" },
+      { "id": 3, "title": "CAD Design Competition Winner", "date": "2024-06-10", "status": "completed" },
+      { "id": 4, "title": "Current Semester", "date": "2024-08-01", "status": "current" }
+    ],
+    "performance": {
+      "academic": {
+        "overall": 7.8,
+        "classRank": 8,
+        "subjectWise": [
+          { "subject": "Engineering Drawing", "grade": "A" },
+          { "subject": "Thermodynamics", "grade": "B+" },
+          { "subject": "Materials Science", "grade": "B" },
+          { "subject": "Manufacturing Processes", "grade": "B+" }
+        ]
+      },
+      "sports": {
+        "participation": [
+          { "event": "Inter-College Cricket Tournament", "position": "Runner-up", "year": 2024 },
+          { "event": "College Athletics Meet", "position": "3rd (100m sprint)", "year": 2024 }
+        ]
+      }
+    },
+    "lifecycleTracking": {
+      "currentPhase": "Sophomore",
+      "admissionDate": "2023-08-01",
+      "expectedGraduation": "2027-05-30",
+      "alumniStatus": "Not Applicable"
+    },
+    "governmentSchemes": [
+      {
+        "name": "State Merit Scholarship",
+        "amount": "₹15,000 per year",
+        "status": "Approved",
+        "year": "2023-24"
+      }
+    ],
+    "mentorship": {
+      "mentorId": 4,
+      "mentorName": "Dr. Sunita Reddy",
+      "lastMeeting": "2024-09-10",
+      "nextMeeting": "2024-10-10",
+      "notes": "Working on improving academic performance in core subjects"
+    },
+    "opportunities": [
+      {
+        "type": "Project",
+        "title": "Electric Vehicle Battery Thermal Management",
+        "status": "Upcoming",
+        "startDate": "2024-11-15"
+      }
+    ],
+    "certificates": [
+      {
+        "title": "AutoCAD Professional",
+        "issuedBy": "Autodesk",
+        "issuedDate": "2024-03-20",
+        "verificationId": "ACAD-PRO-5678"
+      }
+    ],
+    "feedback": [
+      {
+        "subject": "Practical Training",
+        "rating": 3.5,
+        "comment": "Need more hands-on workshop time",
+        "date": "2024-05-15"
+      }
+    ],
+    "digitalCredentials": {
+      "digilockerLinked": true,
+      "aadharLinked": true,
+      "abcId": "ABC45678901",
+      "apaarId": "APAR654321"
+    },
+    "analytics": {
+      "performancePrediction": "Good potential in mechanical design and CAD",
+      "alertsGenerated": [
+        { "type": "Academic", "message": "Consider additional practice in Thermodynamics", "date": "2024-09-05" },
+        { "type": "Opportunity", "message": "Upcoming CAD competition registration open", "date": "2024-09-20" }
+      ]
+    },
+    "alumniNetwork": {
+      "connected": false,
+      "status": "Current Student"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Neha Gupta",
+    "college": "NIAMT Ranchi",
+    "aadharMasked": "XXXX-XXXX-7890",
+    "department": "Civil Engineering",
+    "year": 3,
+    "cgpa": 8.3,
+    "attendance": 90,
+    "activeInternships": 1,
+    "badgesEarned": [
+      { "id": 1, "name": "Sustainable Design", "description": "Best eco-friendly project design" },
+      { "id": 2, "name": "Academic Merit", "description": "Consistent performance in academics" }
+    ],
+    "skills": [
+      { "name": "Structural Analysis", "level": 85 },
+      { "name": "AutoCAD", "level": 80 },
+      { "name": "Environmental Engineering", "level": 75 },
+      { "name": "Project Planning", "level": 85 },
+      { "name": "Surveying", "level": 90 }
+    ],
+    "progress": [
+      { "semester": "Sem 1", "cgpa": 8.0 },
+      { "semester": "Sem 2", "cgpa": 8.2 },
+      { "semester": "Sem 3", "cgpa": 8.4 },
+      { "semester": "Sem 4", "cgpa": 8.3 },
+      { "semester": "Sem 5", "cgpa": 8.3 }
+    ],
+    "timeline": [
+      { "id": 1, "title": "Joined NIAMT Ranchi", "date": "2022-08-01", "status": "completed" },
+      { "id": 2, "title": "First Year Completed", "date": "2023-05-15", "status": "completed" },
+      { "id": 3, "title": "Internship at L&T Construction", "date": "2023-06-10", "status": "completed" },
+      { "id": 4, "title": "Second Year Completed", "date": "2024-05-20", "status": "completed" },
+      { "id": 5, "title": "Sustainable Design Award", "date": "2024-07-15", "status": "completed" },
+      { "id": 6, "title": "Current Semester", "date": "2024-08-01", "status": "current" }
+    ],
+    "performance": {
+      "academic": {
+        "overall": 8.3,
+        "classRank": 4,
+        "subjectWise": [
+          { "subject": "Structural Engineering", "grade": "A" },
+          { "subject": "Environmental Engineering", "grade": "A-" },
+          { "subject": "Surveying", "grade": "A+" },
+          { "subject": "Construction Management", "grade": "B+" }
+        ]
+      },
+      "sports": {
+        "participation": [
+          { "event": "Inter-College Volleyball", "position": "Winner", "year": 2023 },
+          { "event": "State Level Athletics", "position": "Participant", "year": 2024 }
+        ]
+      }
+    },
+    "lifecycleTracking": {
+      "currentPhase": "Undergraduate",
+      "admissionDate": "2022-08-01",
+      "expectedGraduation": "2026-05-30",
+      "alumniStatus": "Not Applicable"
+    },
+    "governmentSchemes": [
+      {
+        "name": "Construction Sector Skill Council Scholarship",
+        "amount": "₹20,000 per year",
+        "status": "Approved",
+        "year": "2023-24"
+      },
+      {
+        "name": "Women in Engineering Scholarship",
+        "amount": "₹15,000 per year",
+        "status": "Approved",
+        "year": "2024-25"
+      }
+    ],
+    "mentorship": {
+      "mentorId": 3,
+      "mentorName": "Dr. Amit Patel",
+      "lastMeeting": "2024-09-18",
+      "nextMeeting": "2024-10-18",
+      "notes": "Discussing sustainable construction methods for thesis"
+    },
+    "opportunities": [
+      {
+        "type": "Internship",
+        "company": "Tata Projects",
+        "role": "Site Engineer Intern",
+        "status": "Active",
+        "duration": "4 months"
+      },
+      {
+        "type": "NEP Initiative",
+        "title": "Green Building Certification Program",
+        "status": "Selected",
+        "startDate": "2024-12-01"
+      }
+    ],
+    "certificates": [
+      {
+        "title": "Green Building Design",
+        "issuedBy": "Indian Green Building Council",
+        "issuedDate": "2023-11-15",
+        "verificationId": "IGBC-2023-456"
+      },
+      {
+        "title": "Advanced Structural Analysis",
+        "issuedBy": "NIAMT Continuing Education",
+        "issuedDate": "2024-02-28",
+        "verificationId": "NIAMT-ASA-789"
+      }
+    ],
+    "feedback": [
+      {
+        "subject": "Field Visits",
+        "rating": 4.0,
+        "comment": "More site visits would enhance practical understanding",
+        "date": "2024-04-05"
+      },
+      {
+        "subject": "Laboratory Equipment",
+        "rating": 3.8,
+        "comment": "Need more modern surveying equipment",
+        "date": "2024-04-05"
+      }
+    ],
+    "digitalCredentials": {
+      "digilockerLinked": true,
+      "aadharLinked": true,
+      "abcId": "ABC56789012",
+      "apaarId": "APAR543210"
+    },
+    "analytics": {
+      "performancePrediction": "Strong potential in sustainable construction and environmental engineering",
+      "alertsGenerated": [
+        { "type": "Opportunity", "message": "Eligible for Smart Cities internship program", "date": "2024-09-15" },
+        { "type": "Academic", "message": "Consider specializing in green infrastructure", "date": "2024-09-25" }
+      ]
+    },
+    "alumniNetwork": {
+      "connected": false,
+      "status": "Current Student"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Vikram Malhotra",
+    "college": "NIAMT Ranchi",
+    "aadharMasked": "XXXX-XXXX-4567",
+    "department": "Electrical Engineering",
+    "year": 4,
+    "cgpa": 8.5,
+    "attendance": 93,
+    "activeInternships": 1,
+    "badgesEarned": [
+      { "id": 1, "name": "Innovation Leader", "description": "Outstanding innovation in renewable energy" },
+      { "id": 2, "name": "Technical Excellence", "description": "Best technical project in department" }
+    ],
+    "skills": [
+      { "name": "Power Systems", "level": 90 },
+      { "name": "Renewable Energy", "level": 85 },
+      { "name": "Circuit Design", "level": 80 },
+      { "name": "MATLAB", "level": 75 },
+      { "name": "PLC Programming", "level": 70 }
+    ],
+    "progress": [
+      { "semester": "Sem 1", "cgpa": 8.2 },
+      { "semester": "Sem 2", "cgpa": 8.3 },
+      { "semester": "Sem 3", "cgpa": 8.4 },
+      { "semester": "Sem 4", "cgpa": 8.5 },
+      { "semester": "Sem 5", "cgpa": 8.6 },
+      { "semester": "Sem 6", "cgpa": 8.5 },
+      { "semester": "Sem 7", "cgpa": 8.5 }
+    ],
+    "timeline": [
+      { "id": 1, "title": "Joined NIAMT Ranchi", "date": "2021-08-01", "status": "completed" },
+      { "id": 2, "title": "First Year Completed", "date": "2022-05-15", "status": "completed" },
+      { "id": 3, "title": "Internship at NTPC", "date": "2022-06-10", "status": "completed" },
+      { "id": 4, "title": "Second Year Completed", "date": "2023-05-20", "status": "completed" },
+      { "id": 5, "title": "Innovation Award", "date": "2023-09-15", "status": "completed" },
+      { "id": 6, "title": "Third Year Completed", "date": "2024-05-15", "status": "completed" },
+      { "id": 7, "title": "Current Semester", "date": "2024-08-01", "status": "current" },
+      { "id": 8, "title": "Graduation", "date": "2025-05-30", "status": "future" }
+    ],
+    "performance": {
+      "academic": {
+        "overall": 8.5,
+        "classRank": 3,
+        "subjectWise": [
+          { "subject": "Power Systems", "grade": "A+" },
+          { "subject": "Control Systems", "grade": "A" },
+          { "subject": "Renewable Energy", "grade": "A+" },
+          { "subject": "Electric Drives", "grade": "A-" }
+        ]
+      },
+      "sports": {
+        "participation": [
+          { "event": "Inter-College Football", "position": "Semi-finalist", "year": 2023 }
+        ]
+      }
+    },
+    "lifecycleTracking": {
+      "currentPhase": "Final Year",
+      "admissionDate": "2021-08-01",
+      "expectedGraduation": "2025-05-30",
+      "alumniStatus": "Not Applicable"
+    },
+    "governmentSchemes": [
+      {
+        "name": "Ministry of Power Scholarship",
+        "amount": "₹30,000 per year",
+        "status": "Approved",
+        "year": "2023-24"
+      }
+    ],
+    "mentorship": {
+      "mentorId": 5,
+      "mentorName": "Dr. Anand Mishra",
+      "lastMeeting": "2024-09-25",
+      "nextMeeting": "2024-10-25",
+      "notes": "Working on renewable energy integration thesis"
+    },
+    "opportunities": [
+      {
+        "type": "Internship",
+        "company": "Adani Power",
+        "role": "Power Systems Intern",
+        "status": "Active",
+        "duration": "6 months"
+      },
+      {
+        "type": "Project",
+        "title": "Smart Grid Implementation for Campus",
+        "status": "Ongoing",
+        "startDate": "2024-08-01"
+      }
+    ],
+    "certificates": [
+      {
+        "title": "Solar PV System Design",
+        "issuedBy": "National Institute of Solar Energy",
+        "issuedDate": "2023-07-20",
+        "verificationId": "NISE-SPV-1234"
+      },
+      {
+        "title": "Energy Audit Professional",
+        "issuedBy": "Bureau of Energy Efficiency",
+        "issuedDate": "2024-01-10",
+        "verificationId": "BEE-EAP-5678"
+      }
+    ],
+    "feedback": [
+      {
+        "subject": "Laboratory Facilities",
+        "rating": 4.2,
+        "comment": "Good equipment but need more renewable energy lab setups",
+        "date": "2024-03-15"
+      }
+    ],
+    "digitalCredentials": {
+      "digilockerLinked": true,
+      "aadharLinked": true,
+      "abcId": "ABC67890123",
+      "apaarId": "APAR432109"
+    },
+    "analytics": {
+      "performancePrediction": "Strong potential in power systems and renewable energy sector",
+      "alertsGenerated": [
+        { "type": "Placement", "message": "Energy sector companies recruiting next month", "date": "2024-09-18" },
+        { "type": "Academic", "message": "Consider pursuing M.Tech in Power Systems", "date": "2024-09-22" }
+      ]
+    },
+    "alumniNetwork": {
+      "connected": false,
+      "status": "Current Student"
+    }
+  }
+]

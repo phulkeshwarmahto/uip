@@ -1,0 +1,12 @@
+[
+  {"id": 1, "studentId": 1, "date": "2024-10-15", "hours": 4, "description": "Researched KNN algorithm implementations for the machine learning project. Compared different libraries and their performance metrics.", "status": "Verified", "supervisorComments": "Good work on the comparative analysis."},
+  {"id": 2, "studentId": 1, "date": "2024-10-16", "hours": 3, "description": "Initial draft of the project proposal for the Smart India Hackathon. Focused on problem statement and solution architecture.", "status": "Submitted", "supervisorComments": null},
+  {"id": 3, "studentId": 1, "date": "2024-10-14", "hours": 5, "description": "Implemented basic UI components for the mobile application. Created wireframes and design system.", "status": "Verified", "supervisorComments": "The wireframes are well thought out. Consider adding more accessibility features."},
+  {"id": 4, "studentId": 1, "date": "2024-10-12", "hours": 2, "description": "Team meeting for project distribution and timeline planning.", "status": "Verified", "supervisorComments": "Good planning session."},
+  {"id": 5, "studentId": 1, "date": "2024-10-17", "hours": 6, "description": "Working on the database schema design and API specifications.", "status": "Draft", "supervisorComments": null},
+  {"id": 6, "studentId": 2, "date": "2024-10-15", "hours": 3, "description": "Literature review for the research paper on quantum computing applications.", "status": "Verified", "supervisorComments": "Comprehensive review. Add more recent papers."},
+  {"id": 7, "studentId": 2, "date": "2024-10-16", "hours": 4, "description": "Experimental setup for the quantum algorithm benchmarking.", "status": "Submitted", "supervisorComments": null},
+  {"id": 8, "studentId": 3, "date": "2024-10-14", "hours": 5, "description": "Developed neural network architecture for the image recognition system.", "status": "Verified", "supervisorComments": "Innovative approach. Test with more diverse datasets."},
+  {"id": 9, "studentId": 3, "date": "2024-10-16", "hours": 3, "description": "Training and validation of the model on the custom dataset.", "status": "Submitted", "supervisorComments": null},
+  {"id": 10, "studentId": 1, "date": "2024-10-10", "hours": 4, "description": "Attended workshop on cloud infrastructure and deployment strategies.", "status": "Verified", "supervisorComments": "Good initiative to enhance your skills."}
+]
