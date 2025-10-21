@@ -346,6 +346,7 @@
 body {
   @apply bg-background text-foreground font-sans;
   font-family: 'Inter', sans-serif;
+  padding: 0px 10px;
   font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
 }
 
@@ -584,7 +585,7 @@ html {
 }
 
 [data-theme="govtech-sapphire"] .active-nav-item {
-  @apply relative before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:h-6 before:w-1 before:bg-secondary before:rounded-r-full;
+  @apply relative before:absolute before:left-0 before:top-1/1 before:-translate-y-1/2 before:h-6 before:w-1 before:bg-secondary before:rounded-r-full;
 }
 
 .sidebar-nav-item {
